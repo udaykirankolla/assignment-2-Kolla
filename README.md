@@ -2,3 +2,9 @@
 # KOLLA UDAYKIRAN #
 ## musuem name is salarjung  museum ##
 The Salar Jung Museum is an art museum located at **Dar-ul-Shifa**, on the southern bank of the Musi River in the city of Hyderabad, Telangana, India. It is one of the notable National Museums of India. Originally a private art collection of the Salar Jung family, it was endowed to the nation after the death of **Salar Jung III**. It was inaugurated on 16 December 1951.
+---
+## Traveling Guide for the museum ##
+1. Beghampet Airport is closest to the Salar jung museum.
+2. first we will land off the airplane.
+3. after landing the flight we want to book a cab to the museum.
+4. finally we will reached to the museum.
