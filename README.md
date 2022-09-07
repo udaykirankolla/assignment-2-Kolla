@@ -8,3 +8,10 @@ The Salar Jung Museum is an art museum located at **Dar-ul-Shifa**, on the south
 2. first we will land off the airplane.
 3. after landing the flight we want to book a cab to the museum.
 4. finally we will reached to the museum.
+* I would like to recommended locations to others around the salar jung museum.
+    * jamal market shopping complex.
+    * chowmahalla palace.
+    * Nizam museum.
+    * Charminar.
+    * modi pearls.
+    
