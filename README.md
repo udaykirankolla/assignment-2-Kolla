@@ -17,10 +17,10 @@ The Salar Jung Museum is an art museum located at **Dar-ul-Shifa**, on the south
 
 Link to AboutME ![AboutMe](AboutMe.md)
 --- 
-| city | location | time |
-| --- | --- |
-| hyderabad | salarjung | 1 hour |
-| banglore |  durga temple| 1 hour |
-| vijayawada | temple | 1 hour |
-| ongole| kalanikethan | 1 hour |
+| city      | location     | time   |
+| ---:      | ---:         |    ---:|
+| hyderabad | salarjung    | 1 hour |
+| banglore  |  durga temple| 1 hour |
+| vijayawada| temple       | 1 hour |
+| ongole    | kalanikethan | 1 hour |
 
