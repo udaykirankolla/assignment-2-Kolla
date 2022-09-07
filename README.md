@@ -16,6 +16,8 @@ The Salar Jung Museum is an art museum located at **Dar-ul-Shifa**, on the south
     * modi pearls.
 
 Link to AboutME ![AboutMe](AboutMe.md)
+
+# Table for cities
 --- 
 | city      | location     | time   |
 | ---:      | ---:         |    ---:|
@@ -23,4 +25,10 @@ Link to AboutME ![AboutMe](AboutMe.md)
 | banglore  |  durga temple| 1 hour |
 | vijayawada| temple       | 1 hour |
 | ongole    | kalanikethan | 1 hour |
+---
 
+# pithy quotes
+> "failure is the first step for success."
+>@ Author: Winston S. Churchill<br>
+>"Success usually comes to those who are too busy to be looking for it."
+>@ Author: Henry David Thoreau<br>
