@@ -14,4 +14,4 @@ The Salar Jung Museum is an art museum located at **Dar-ul-Shifa**, on the south
     * Nizam museum.
     * Charminar.
     * modi pearls.
-    
+
